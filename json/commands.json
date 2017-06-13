@@ -1,0 +1,28 @@
+{
+  "names" : [
+    "Toggle record",
+    "Toggle stream",
+    "Toggle Mic",
+    "Toggle Desktop Sounds",
+    "Start Screen",
+    "No Time Screen",
+    "BRB Screen",
+    "End Screen",
+    "TBOI",
+    "Elgato",
+    "Clone Drone"
+  ],
+  "keys"  : [
+    [128, 129, 210, 10],
+    [128, 192, 209, 10],
+    [128, 129, 109, 10],
+    [128, 129, 107, 10],
+    [128, 129, 194, 10],
+    [128, 129, 195, 10],
+    [128, 129, 196, 10],
+    [128, 129, 197, 10],
+    [128, 129, 198, 10], 
+    [128, 129, 199, 10],
+    [128, 129, 200, 10]
+  ]
+}
